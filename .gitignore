@@ -131,7 +131,7 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
-.svg
+*.svg
 
 # Rope project settings
 .ropeproject
