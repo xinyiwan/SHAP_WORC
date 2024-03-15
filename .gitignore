@@ -131,12 +131,15 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
+.svg
 
 # Rope project settings
 .ropeproject
 
 # mkdocs documentation
 /site
+/Data
+/WORC_Example_STWStrategyHN_BasicWORC
 
 # mypy
 .mypy_cache/
